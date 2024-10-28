@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "модульные дома"
+version = "0.1.0"
+description = ""
+authors = ["fletwix <fletwixgreyrat@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+aiogram = "2.25.2"
+redis = "^5.1.0"
+python-dotenv = "^1.0.1"
+frontend = "^0.0.3"
+pymupdf = "^1.24.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
