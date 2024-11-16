@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/home/fletwix/Desktop/Модульные дома/venv/bin/python3.11" "$0" "$@"
-' '''
+#!/root/domdom/venv/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys
